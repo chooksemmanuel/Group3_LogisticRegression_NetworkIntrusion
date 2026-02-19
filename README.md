@@ -1,24 +1,24 @@
-# \# Group 3 — Logistic Regression: Network Intrusion Detection
+# Group 3 — Logistic Regression: Network Intrusion Detection
 
 # 
 
-# \## 📌 Overview
+# Overview
 
-# This workshop replaces the original pass/fail use case with a \*\*Network Intrusion Detection\*\* scenario. Given the number of failed login attempts on a network connection, we classify it as \*\*Normal (0)\*\* or \*\*Attack (1)\*\* using Logistic Regression.
-
-# 
-
-# \## 👥 Team
-
-# \- Emmanuel Ihejiamaizu
-
-# \- Liggia Elena Taboada Cruz
-
-# \- Chao-Chung Liu Thomas
+# This workshop replaces the original pass/fail use case with a Network Intrusion Detection scenario. Given the number of failed login attempts on a network connection, we classify it as "Normal (0)" or "Attack (1)" using Logistic Regression.
 
 # 
 
-# \## 📚 Concepts Covered
+# 👥 Team
+
+# 1. Emmanuel Ihejiamaizu
+
+# 2. Liggia Elena Taboada Cruz
+
+# 3. Chao-Chung Liu Thomas
+
+# 
+
+# Concepts Covered
 
 # \- Linear Regression recap (MSE, R²)
 
@@ -32,7 +32,7 @@
 
 # 
 
-# \## 🚀 How to Run
+# How to Run
 
 # 1\. Clone this repo:
 
@@ -48,7 +48,7 @@
 
 # 
 
-# \## 🔗 Dataset Context
+# Dataset Context
 
 # Inspired by the NSL-KDD network traffic dataset. Features represent connection-level attributes used to detect malicious activity.
 
